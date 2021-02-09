@@ -1,0 +1,4 @@
+#this is a comment and below files are to be ignored
+#*.txt #this means all files with txt extensions are to be ignored
+.DS_Store
+top-secret.txt
